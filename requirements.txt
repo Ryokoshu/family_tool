@@ -1,2 +1,4 @@
 streamlit
 pandas
+# ほかに書いてあるパッケージがあればそのまま
+streamlit-extras
